@@ -1,0 +1,5 @@
+folgorycoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/folgorycoin-qt.desktop usr/share/applications
+debian/folgorycoin-qt.protocol usr/share/kde4/services/

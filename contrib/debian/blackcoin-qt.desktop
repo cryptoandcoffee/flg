@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FolgoryCoin
+Comment=FolgoryCoin P2P Cryptocurrency
+Comment[fr]=FolgoryCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FolgoryCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/folgorycoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/folgorycoin;
+Categories=Office;

@@ -1,0 +1,2 @@
+debian/bin/folgorycoind usr/bin
+src/folgorycoind usr/lib/folgorycoin
